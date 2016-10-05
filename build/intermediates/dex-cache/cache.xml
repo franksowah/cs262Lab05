@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fc62b1add816bdf7b0eea7bf1c8bebf400a443da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4540837697e5542fe8fcf64ad07abddcb10bcdc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4e8bd2dbcb2d6689e4e3b01fecaf2aa44d0f46d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_48190d0076428f98faa6cf7a908b9e305d9032e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e61ef1cdf61eec09cc53ef8bb0ddb928065645c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_459aab2747b5960f32adc1fc85d074ecb379569b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99025aac55b5e49596097371179e8dcbc0579832">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_940b06cb6133b2b84e89ea0b777e5f8968d7cdb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_d57481e5bd8fb775c689703965e78808e7fc1996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a8adcf333ecc938cee91995ec00f85fc2253612c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_01992f70abc70a1ce054dff4b70f40604bd883e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8d7ad929621fe8f83e2a027ad42afc2eefe6f095/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_8a5d4313a0fc6b1243ffbb6418b19ec100a6b223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a8febad296a6a738af09c6eb4d24b13aeb17c88">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a1b3eb9c86728051568280d88f13c38da645cb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0c12f6bf6047b290ddea4cb8eb9921c735e53f51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2718a8060baef75d97b38793f083c7ec0828180d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1739e82cd99746a4a5237eac79c089d1c46f363d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/FrankSowah/AndroidStudioProjects/lab04/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9189896b198b57818be67c49852cd46015697d08/classes.dex" />
+    </item>
+
+</items>
